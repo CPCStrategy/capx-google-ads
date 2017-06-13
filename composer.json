@@ -1,7 +1,7 @@
 {
-  "name": "nikolajlovenhardt/laravel-google-ads",
+  "name": "bilaliqbal-te/laravel-google-ads",
   "type": "library",
-  "description": "Google Ads API for Laravel",
+  "description": "Google Ads API for Laravel forked from nikolajlovenhardt/laravel-google-ads",
   "keywords": [
     "laravel",
     "ads",
@@ -15,6 +15,9 @@
       "name": "Nikolaj Petersen",
       "email": "nikolaj.lovenhardt@gmail.com",
       "homepage": "http://github.com/nikolajlovenhardt"
+    },
+    {
+      "email": "bilaliqbal.te@gmail.com"
     }
   ],
   "require": {

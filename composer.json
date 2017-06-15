@@ -6,7 +6,8 @@
     "laravel",
     "ads",
     "adwords",
-    "google"
+    "google",
+    "capx"
   ],
   "homepage": "https://github.com/nikolajlovenhardt/laravel-google-ads",
   "license": "MIT",

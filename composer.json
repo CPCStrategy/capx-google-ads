@@ -1,5 +1,5 @@
 {
-  "name": "capx/laravel-google-ads",
+  "name": "capx/capx-google-ads",
   "type": "library",
   "description": "Google Ads API for Laravel forked from nikolajlovenhardt/laravel-google-ads",
   "keywords": [

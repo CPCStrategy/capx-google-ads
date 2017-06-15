@@ -12,12 +12,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nikolaj Petersen",
-      "email": "nikolaj.lovenhardt@gmail.com",
-      "homepage": "http://github.com/nikolajlovenhardt"
-    },
-    {
-      "email": "bilaliqbal.te@gmail.com"
+      "name": "Bilal Iqbal",
+      "email": "technology@cpcstrategy.com"
     }
   ],
   "require": {

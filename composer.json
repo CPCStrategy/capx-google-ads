@@ -6,7 +6,8 @@
     "laravel",
     "ads",
     "adwords",
-    "google"
+    "google",
+    "capx"
   ],
   "homepage": "https://github.com/CPCStrategy/capx-google-ads",
   "license": "MIT",

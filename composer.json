@@ -7,7 +7,8 @@
     "ads",
     "adwords",
     "google",
-    "capx"
+    "capx",
+    "cpcstrategy"
   ],
   "homepage": "https://github.com/CPCStrategy/capx-google-ads",
   "license": "MIT",

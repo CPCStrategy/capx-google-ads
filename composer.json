@@ -1,5 +1,5 @@
 {
-  "name": "capx/capx-google-ads",
+  "name": "cpcstrategy/capx-google-ads",
   "type": "library",
   "description": "Google Ads API for Laravel forked from nikolajlovenhardt/laravel-google-ads",
   "keywords": [
@@ -8,7 +8,7 @@
     "adwords",
     "google"
   ],
-  "homepage": "https://github.com/nikolajlovenhardt/laravel-google-ads",
+  "homepage": "https://github.com/CPCStrategy/capx-google-ads",
   "license": "MIT",
   "authors": [
     {
